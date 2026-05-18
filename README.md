@@ -7,7 +7,7 @@ Personal repository to track my problem-solving journey. Solutions are written i
 ## 📁 Structure
 ```
 dsa_practice/
-├── Arrays & Strings/ (Easy - 0, Medium - 0, Hard - 0)
+├── Arrays & Strings/ (Easy - 1, Medium - 2, Hard - 0)
 ├── Linked List/ (Easy - 0, Medium - 0, Hard - 0)
 ├── Recursion/ (Easy - 0, Medium - 0, Hard - 0)
 ├── Stack & Queue/ (Easy - 0, Medium - 0, Hard - 0)
@@ -24,10 +24,10 @@ dsa_practice/
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy    | 7      |
-| 🟡 Medium  | 0      |
+| 🟢 Easy    | 8      |
+| 🟡 Medium  | 2      |
 | 🔴 Hard    | 0      |
-| **Total**  | **7**  |
+| **Total**  | **10**  |
 
 ---
 
