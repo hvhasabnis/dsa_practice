@@ -11,7 +11,7 @@ class Solution:
         first = head
         second = head.next
 
-        while first and second:
+        while second and second.next:
             if first == second:
                 return True
             
