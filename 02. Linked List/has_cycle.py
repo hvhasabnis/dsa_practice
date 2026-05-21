@@ -6,19 +6,20 @@ class ListNode:
 class Solution:
     def hasCycle(self, head: ListNode = None) -> bool:
         if not head:
-            return True
+            return False
         
         first = head
         second = head.next
 
-        while not first or not second:
+        while first and second:
             if first == second:
-                return False
+                return True
             
             first = first.next
+
             second = second.next.next
 
-        return True
+        return False
     
 def main():
 
